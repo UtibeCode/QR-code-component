@@ -16,8 +16,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open Qr-code format.html",
-            "file": "c:\\Users\\DELL\\Desktop\\Web Development\\Qr-code format.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\DELL\\Desktop\\Web Development\\index.html"
         }
     ]
 }
