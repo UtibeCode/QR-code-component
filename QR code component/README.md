@@ -29,6 +29,6 @@ I used Visual Studio's AI chat. It helped me detect problems, brainstorm solutio
 
 ## Author
 
-- Frontend Mentor - [@el-carim](https://www.frontendmentor.io/profile/Utibe)
+- Frontend Mentor - [@Utibe](https://www.frontendmentor.io/profile/Utibe)
 
 ## Acknowledgment
