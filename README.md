@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https:github.com/UtibeCode/Qr-code-component/
-- Live Site URL: htts://utibecode.github.io/Qr-code-component/
+- Solution URL: https://github.com/UtibeCode/Qr-code-component/
+- Live Site URL: https://utibecode.github.io/Qr-code-component/
 
 ### Built with
 - Semantic HTML5 markup
